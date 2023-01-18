@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(243, 151, 118);
+    font-family: Verdana, 'DejaVu Sans', sans-serif
+}
+
+.embiggened {
+    font-size: 24px;
+}
+
+#theBlueOne {
+    font-size: 36px;
+    color:rgb(60, 110, 204);
+}
+
+#theGreenOne {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(91, 185, 91);
+}
